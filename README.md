@@ -1,4 +1,4 @@
-## Eaii! Seja bem vindo ao meu GitHub 
+## Eaii! Seja bem vindo ao meu GitHub 🤖
 <div align="center">
   <a href="https://github.com/danilodro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilodro&show_icons=true&theme=dracula&include_all_commits=true"/>
